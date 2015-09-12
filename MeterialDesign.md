@@ -24,7 +24,7 @@ Two overlapping sheets of paper, with different z-positions (or depths), form a 
 ![alt text](https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7ck5NWGtlRHBCWVE/layout_principles_papercraft_paper2.png)
 Steps in two sheets of overlapping material
 
-###FLoating Action Buttons
+###Floating Action Buttons
 A floating action button is a circular sheet separate from a toolbar. It represents a single promoted action.
 It can straddle a step if it relates to the content creating that step.
 
