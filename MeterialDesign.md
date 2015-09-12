@@ -1,4 +1,8 @@
-#The Design Principle
+
+#What is material Design
+Material makes more liberal use of grid-based layouts, responsive animations and transitions, padding, and depth effects such as lighting and shadows.
+
+#The Material Design Layout Principles
 The design priciple is based on design-print elements such as typography,grids,space,scale,color and imagery to create heirachy, meaning and focus that immerse user in the experience.
 
 Tools are adapted from fields such as print and design like base line grids and stractural templates encouraging consistency across platforms and screen sizes by repeating visual elements, stactural grids and spacing.
@@ -13,3 +17,13 @@ Two sheets of paper that share an entire common edge are called seams. While joi
 Seams sample image: 
 
 ![alt text](https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7RVhqalJxN01Fb0U/layout_principles_papercraft_paper1.png)
+Seams in two sheets of material
+
+####Steps
+Two overlapping sheets of paper, with different z-positions (or depths), form a step. They move independently of each other. 
+![alt text](https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7ck5NWGtlRHBCWVE/layout_principles_papercraft_paper2.png)
+Steps in two sheets of overlapping material
+
+###FLoating Action Buttons
+
+
